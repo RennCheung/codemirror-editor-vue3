@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,e as r}from"./app.2c0f7f11.js";const p='{"title":"Props","description":"","frontmatter":{},"headers":[{"level":3,"title":"Props","slug":"props"}],"relativePath":"instructions/props.md"}',l={},n=r("",2),o=[n];function c(a,s,i,g,x,y){return d(),e("div",null,o)}var f=t(l,[["render",c]]);export{p as __pageData,f as default};
